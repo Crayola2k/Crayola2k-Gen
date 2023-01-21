@@ -1,2 +1,1 @@
-# Crayola2k-Gen
-A PS4 &amp; XBOX Generator + Checker
+To run the script, copy & paste the code into your python IDE and install all the modules then run :)
